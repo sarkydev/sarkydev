@@ -3,6 +3,6 @@
 
 <a href="https://github.com/sarkydev">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sarkydev&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=sarkydev&color=blue" alt="Profile Views">
   </p>
 </a>
