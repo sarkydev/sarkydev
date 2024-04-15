@@ -1,5 +1,5 @@
 <h1 align="center">sarky</h1>
-<p align="center">Website Developer</p>
+<p align="center">Full-Stack Developer</p>
 
 <a href="https://github.com/sarkydev">
   <p align="center">
