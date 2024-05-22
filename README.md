@@ -3,6 +3,6 @@
 
 <a href="https://github.com/sarkydev">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sarkydev&color=blue" alt="Fiók Megtekintések">
+    <img src="https://komarev.com/ghpvc/?username=sarkydev&color=purple" alt="Fiók Megtekintések">
   </p>
 </a>
