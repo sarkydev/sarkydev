@@ -1,4 +1,4 @@
-<h1 align="center">sarky</h1>
+<h1 align="center">SarkyOfficial</h1>
 <p align="center">Full-Stack Developer</p>
 
 <a href="https://github.com/sarkydev">
