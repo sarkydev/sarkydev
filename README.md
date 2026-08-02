@@ -1,8 +1,8 @@
-<h1 align="center">SarkyOfficial</h1>
-<p align="center">full-stack developer</p>
+<div align="center">
 
-<a href="https://github.com/sarkydev">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sarkydev&color=blueviolet">
-  </p>
-</a>
+# SarkyOfficial
+full-stack developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sarkydev&color=blueviolet)](https://github.com/sarkydev)
+
+</div>
